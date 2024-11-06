@@ -1,3 +1,3 @@
 # demo
-demo to practice git hub
+demo to practice git hub.
 hello
